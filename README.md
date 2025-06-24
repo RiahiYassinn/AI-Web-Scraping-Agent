@@ -187,14 +187,6 @@ npm run lint
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Disclaimer
-
-This tool is for educational and research purposes. Always respect websites' robots.txt files and terms of service. Be mindful of rate limiting and avoid overloading servers. The developers are not responsible for any misuse of this software.
-
 ## 🙏 Acknowledgments
 
 - [Google Gemini](https://deepmind.google/technologies/gemini/) for AI-powered analysis
@@ -202,13 +194,6 @@ This tool is for educational and research purposes. Always respect websites' rob
 - [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/) for the beautiful UI
 - [Lucide](https://lucide.dev/) for the amazing icons
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/ai-web-scraping-agent/issues) page
-2. Create a new issue with detailed information
-3. Join our [Discussions](https://github.com/yourusername/ai-web-scraping-agent/discussions)
 
 ---
 
